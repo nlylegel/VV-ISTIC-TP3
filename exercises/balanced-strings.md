@@ -26,3 +26,13 @@ Use the project in [tp3-balanced-strings](../code/tp3-balanced-strings) to compl
 
 ## Answer
 
+1) Nous avons identifé 5 blocks de partition : 
+- Chaine équilibrée : "{()}"
+- Chaine non équilibrée : "{(})"
+- Chaine vide : ""
+- Chaine sans symbole : "abc"
+- Chaine avec des espaces : "( { } )"
+- Chaine chaine valide avec des caractères : "(a{opr})"
+  
+2)  
+
